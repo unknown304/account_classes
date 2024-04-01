@@ -1,0 +1,1 @@
+A  couple of simple banking account classes.The base class is Account.Saving_account and Checking_account are publically inhereted from Account.Finally,Trust_account is publically inhereted from Saving_account.
